@@ -1,7 +1,7 @@
 {
   "name": "cyberitas/wp-pinterest-rss-widget",
   "type": "wordpress-plugin",
-  "description": "Drupal import export utilities",
+  "description": "Wordpress pinterest RSS Widget",
   "keywords": ["Wordpress", "Pinterest", "RSS"],
   "license": "GPL-2.0+",
   "homepage": "https://github.com/Cyberitas/wordpress-pinterest-rss-widget",
