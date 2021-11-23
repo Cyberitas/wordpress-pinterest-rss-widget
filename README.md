@@ -1,5 +1,11 @@
 
 === Pinterest RSS Widget ===
+
+PHP 8 Compatible fork of the original pinterest-rss-widget WordPress plugin. 
+
+
+== Original Code ==
+
 Contributors: bkmacdaddy, AidaofNubia, thewebprincess, leepettijohn
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SXTEL7YLUSFFC
 Tags: Pinterest, rss, feed, widget
