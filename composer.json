@@ -1,0 +1,14 @@
+{
+  "name": "cyberitas/wp-pinterest-rss-widget",
+  "type": "wordpress-plugin",
+  "description": "Drupal import export utilities",
+  "keywords": ["Wordpress", "Pinterest", "RSS"],
+  "license": "GPL-2.0+",
+  "homepage": "https://github.com/Cyberitas/wordpress-pinterest-rss-widget",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "support": {
+    "issues": "https://github.com/Cyberitas/io_utils/issues",
+    "source": "https://github.com/Cyberitas/io_utils"
+  }
+}
