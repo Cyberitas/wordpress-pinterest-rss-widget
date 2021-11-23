@@ -300,8 +300,8 @@ class Pinterest_RSS_Widget extends WP_Widget {
 }
 
 // register_widget('Pinterest_RSS_Widget');
-add_action( 'widgets_init', create_function('', 'return register_widget("Pinterest_RSS_Widget");') );
+add_action( 'widgets_init', static function () { return register_widget("Pinterest_RSS_Widget"); } );
 
-add_filter( 'wp_feed_cache_transient_lifetime', create_function('$a', 'return 600;') );
+add_filter( 'wp_feed_cache_transient_lifetime', static function ($a) { return 600; } );
 
 ?>
